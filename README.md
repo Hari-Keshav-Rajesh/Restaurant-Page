@@ -1,2 +1,2 @@
 # Restaurant-Page
-Browser based Restaurant website
+A browser based Restaurant page
