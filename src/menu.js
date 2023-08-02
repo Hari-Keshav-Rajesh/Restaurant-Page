@@ -54,7 +54,7 @@ const menu = () => {
 
                 const macaroniImage = document.createElement("img");
                 macaroniImage.classList.add("macaroniImage","menuImage");
-                macaroniImage.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdp-8-VwZB6V4dqmxE7TCS7WVE-573o3xGA&usqp=CAU"
+                macaroniImage.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMIzR0v-BLN9Ha4-8ii_MHKxJyKo6AaxkZw&usqp=CAU"
                 macaroni.appendChild(macaroniImage);
 
                 const macaroniText = document.createElement("div");
@@ -68,7 +68,7 @@ const menu = () => {
     
                     const penneImage = document.createElement("img");
                     penneImage.classList.add("penneImage","menuImage");
-                    penneImage.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdp-8-VwZB6V4dqmxE7TCS7WVE-573o3xGA&usqp=CAU"
+                    penneImage.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBpJeVriOT9PwGJtin8cjV9B5rbKMvFT0Zw&usqp=CAU"
                     penne.appendChild(penneImage);
     
                     const penneText = document.createElement("div");
