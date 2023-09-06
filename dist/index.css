@@ -28,6 +28,10 @@
     border-style: hidden;
 }
 
+.options button:hover{
+    color: orange;
+}
+
 /*End of Header CSS*/
 
 
